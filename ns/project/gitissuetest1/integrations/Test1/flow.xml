@@ -8,4 +8,8 @@
 <INVOKE NAME="Date" SERVICE="pub.date:getCurrentDate">
   <COMMENT></COMMENT>
 </INVOKE>
+
+<INVOKE NAME="Date" SERVICE="pub.date:currentNanoTime">
+  <COMMENT></COMMENT>
+</INVOKE>
 </FLOW>
