@@ -15,4 +15,4 @@ services:
 - serviceName: pub.date:getCurrentDate
   packages:
   - name: WmPublic
-    version: 11.1.0.0.2068
+    version: 11.1.0.0.7
